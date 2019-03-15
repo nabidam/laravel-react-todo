@@ -40,5 +40,5 @@ I used [Taskman](https://github.com/ammezie/tasksman)'s codes to write this app,
 
 
 # Screenshots
-![pic1](https://pasteboard.co/I5xnLEh.png)
-![pic2](https://pasteboard.co/I5xnxtD.png)
+![pic1](Screenshot_20190315_165244.png)
+![pic2](Screenshot_20190315_165331.png)
